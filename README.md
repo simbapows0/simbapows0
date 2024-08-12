@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simbapows0
+- 👋 Hi, I’m Simbarashe Chipiso
 - 👀 I’m interested in Cyber security and Cloud Computing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cloud Computing projects
