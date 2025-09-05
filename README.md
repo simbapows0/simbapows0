@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Simbarashe Chipiso
-- 👀 I’m interested Cloud Computing 
-- 💞️ I’m looking to collaborate on Cloud Computing projects
-- 📫 How to reach me, simbachipiso@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like chicken
+Hi, I’m Simbarashe Chipiso
 
 <!---
 simbapows0/simbapows0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
